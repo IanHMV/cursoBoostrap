@@ -1,6 +1,13 @@
 # cursoBoostrap
 
 Este es un curso que tome para aprender a utilizar boostrap
+Tecnologias:
+HTML, CSS
+
+Frameworks:
+Boostrap
+
+Responsive!!
 
 El enlace para que lo puedan ver sin necesidad de descargarlo: https://curso-boost.netlify.app/
 
