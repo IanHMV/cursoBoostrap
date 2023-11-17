@@ -13,4 +13,4 @@ Siguiente parte:
 Footer:
 [![cursoboos3.png](https://i.postimg.cc/fLBz4CKj/cursoboos3.png)](https://postimg.cc/7GJ80gjf)
 
-Esta pagina se elaboro para el proyecto personal, en donde se muestra la pagina que elabore enel curso.
+Esta pagina se elaboro como un proyecto personal, en donde se muestra la pagina que elabore en el curso.
