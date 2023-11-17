@@ -1,6 +1,7 @@
 # cursoBoostrap
 
 Este es un curso que tome para aprender a utilizar boostrap
+
 Tecnologias:
 HTML, CSS
 
